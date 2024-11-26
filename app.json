@@ -8,8 +8,8 @@
   
     "env": {
       "OWNER_NAME": {
-        "description": "Name for Bot Owner",
-        "value": "Queen_Charity",
+        "description": "ngugigplan",
+        "value": "ngugigplan",
         "required": true
       },
   
@@ -38,7 +38,7 @@
         "value": "https://files.catbox.moe/zw89uk.jpg"
       },
       "BOT_NAME": {
-        "description": " NAME FOR BOT",
+        "description": " ngugigplan BOT",
         "required": false,
         "value": "QUEEN_CHARITY"
       },
@@ -59,8 +59,8 @@
       },
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
-        "required": false,
-        "value": "false"
+        "required": true,
+        "value": "true"
       },
       "HEROKU_API_KEY": {
         "description": "Put Your Heroku Api Key Here",
@@ -99,14 +99,14 @@
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": "ai."
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254112192119"
+        "value": "254758425428"
       },
       "SESSION_ID": {
-        "description": "put your SESSION_ID here.",
+        "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYUFQNFNFTzJSdEJZVVU1UW9iUHFTMTlUUmJpNnpRNnRETVF2Z2w4WG9HOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY3VKYU5NNGs0THFDdXBLdm92eUhQcWpyZDZJQnMzazY5bUZUMUl3SmxRVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJvUDRGTlV1OTJMZmgyK0VzMWdmOHVHMDlxMzJFNE1LQ0JBWkFvZXZ0YmtnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2ZXFKL2NlU0NsMkNKdHJpMlFhNCtHdktvd1p4a3BWRVpwMG10aG1nN0NnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklMdEtqc3VwaitndWZCWDFFRk9PS3BCZ3ZoQnZHVWxiNDBoejVjWmxyR3c9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlQxNzdQSG5VTkVldXZGQ0FzYm5OcnBodFoyT1VDL1FJcDI2QkgybGl5Z009In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUJlYk1sc0lPTjh4QnZhdnJWOVVhVGZRbGgrRTc4WHN1MCtSWFo5bUpsND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZzdxS0ZDRWNOdzlhVEJ6QlNoMHJJcVVHclpBeHlLbG9VYjV2THNuTm5Baz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFIMCtGVVRHYzFyajlIWW5xWktuOGFyQ1VWUTcxakJwSHlhMTlrS1pyTjhoT00yMVZFNzhRdThlWk5SZFRTQmF3d0RBSHpOeWJSMko3TmdydWJMaUFRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTc1LCJhZHZTZWNyZXRLZXkiOiJaaWJRZUlHWm5oNkRIMWtiUFI1UXhMd1pJcGNCZE81aEI2Q0hyNE1BN2pJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJhY0c4WjNYU1NDYTlaUl9HanBJNEF3IiwicGhvbmVJZCI6IjY3NTE3ZWY0LTU3Y2QtNDc5OC1iZjc5LWQ1MjFiNDlhOWJkZCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJQdktadmFoUEVvYnZnb0pXS1JJUzIrZHVTeVk9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVzBXbE1nTElYQ1FwcVp1QjJwbXhGYjFOWEw0PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlgyUlBaTk5DIiwibWUiOnsiaWQiOiIyNTQ3NTg0MjU0Mjg6OEBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSTdqZ09vREVLKytscm9HR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5Ijoid0FyNFhwK0ZKdWtTV0xXOStyMEtEU3RjNkZaWURCU1IwRDZoSXBWeHYwTT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiSXBGVXk5aktVd0VIdEpHQ1laKzRDMlI0Z2FlTlE2byt4a3dXNEJXejBCWEErWlN5NjhnWUxhOGJoZnA2bFZnc1VDdllvZlNLWW53dUlWdHZiY2ZJQ2c9PSIsImRldmljZVNpZ25hdHVyZSI6IjZxeG41YlFyOFZhTGZTM3BaUnJ0Um1Rc0ZMS1N3clBLeEV0UzlhUU85ZDh3RnpacWRXUjN4TXcybGdvckIwOGx4bEpZTUI1cTcrR0sybWxrNHRiS0RBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0NzU4NDI1NDI4OjhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY0FLK0Y2ZmhTYnBFbGkxdmZxOUNnMHJYT2hXV0F3VWtkQStvU0tWY2I5RCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTczMjYxNTk5Nn0=",
         "value": ""
       },
       "MODE": {
